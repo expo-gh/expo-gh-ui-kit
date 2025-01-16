@@ -1,7 +1,7 @@
 # **React Native UI Kit**  
 🌟 *Customizable React Native components to speed up your development workflow.*
 
-This subfolder is part of the **expo-ghana-ui-kit** repository and contains reusable, well-documented components designed for React Native projects.
+This subfolder is part of the **expo-gh-ui-kit** repository and contains reusable, well-documented components designed for React Native projects.
 
 ---
 
@@ -9,7 +9,7 @@ This subfolder is part of the **expo-ghana-ui-kit** repository and contains reus
 ### Installation  
 Clone the repository and navigate to the `react-native-ui-kit` subfolder:  
 ```bash
-git clone https://github.com/expoghana/expo-ghana-ui-kit.git
+git clone https://github.com/expo-gh/expo-gh-ui-kit.git
 ```
 
 Usage Example
